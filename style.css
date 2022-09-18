@@ -1,0 +1,12 @@
+body{
+    background-image: url("sound.jpg");
+}
+
+#p{
+    color: white;
+}
+
+canvas{
+    border: 4px solid black;
+    border-radius:30px;  
+}
